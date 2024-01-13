@@ -197,3 +197,53 @@ h5{
         font-size: 34px;
     } 
 }
+@media screen and (max-width:959px){
+    #photo2{
+        width: 600px;
+    }
+}
+@media screen and (max-width:320px){
+    #photo2{
+        width: 100px;
+    }
+    .image{
+        width: 90px;
+        height: 100px;
+    }
+    .presentation{
+        width: 100px;
+        height: 150px;
+    }
+    .note{
+        font-size: 10px;
+    }
+    #peuple{
+        font-size: 10px;
+           }
+    #cmr{
+        display: inline-block;
+        box-sizing: border-box;
+        display: inline;
+        width: 50px;
+        height: 50px;
+    }
+    section div p{
+        font-size: px;
+        
+    }
+    section div h4{ 
+        font-size: 18px;
+    }
+}
+@media screen and (max-width:430px){
+    #photo2{
+        width: 200px;
+    }
+    .image{
+        width: 90px;
+        height: 100px;
+    }
+    .note{
+            font-size: 10px;
+        }
+}
