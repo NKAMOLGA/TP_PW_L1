@@ -67,12 +67,12 @@ div a {
     
     text-align: center;
     font-size: 40px;
-    color: #524a3a;
+    color: #f3f2ef;
     /*background-color: rgb(175, 225, 234);*/
 }
 section div h4 {
     font-size: 150px;
-    color: #fffffe;
+    color: #524a3a;
     font-family: monospace;
 }
 section div p {
